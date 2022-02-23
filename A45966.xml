@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for avoiding of vexatious delays, caused by removing actions and sutes out of inferior courts ; An act for redress of certain abuses, in making pewter and brass</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45966</idno>
+            <idno type="STC">Wing I300</idno>
+            <idno type="STC">ESTC R39281</idno>
+            <idno type="EEBO-CITATION">18320666</idno>
+            <idno type="OCLC">ocm 18320666</idno>
+            <idno type="VID">107353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for avoiding of vexatious delays, caused by removing actions and sutes out of inferior courts ; An act for redress of certain abuses, in making pewter and brass</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Court administration --  Ireland.</term>
+               <term>Brass industry and trade --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107353:1"/>
+            <p>AN ACT For Avoiding of Vexatious Delays, CAUSED By Removing Actions and Sutes OUT OF <hi>Inferior Courts.</hi>
+            </p>
+            <p>AN ACT For Redreſs of certain ABUSES, IN MAKING Pewter and Braſs.</p>
+            <figure/>
+            <p>
+               <hi>DUBLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, on <hi>Cork-Hill,</hi> near <hi>Copper-Alley,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:107353:2"/>
+            <pb n="3" facs="tcp:107353:2"/>
+            <head>An ACT for avoiding of Vex<g ref="char:EOLhyphen"/>tious Delays, cauſed by Removing Actions and Sutes out of Inferior Courts. CHAP. XXXVIII.</head>
+            <p>WHEREAS there now are, and long time have beén divers Courts of Re<g ref="char:EOLhyphen"/>cord, and divers Cities, Liberties, Towns Corporate, and elſewere, ſome of them being far remote from <hi>Dublin,</hi> which were prin<g ref="char:EOLhyphen"/>cipally obtained for the Eaſe and Quiet of ſuch as ſhould have occaſion to Sue there for Debts and Wrongs, ſo that they might with ſmall Ex<g ref="char:EOLhyphen"/>pences, Receive Iuſtice according to the Merits of their Cauſes in thoſe Inferior Courts, with<g ref="char:EOLhyphen"/>out being Compelled to Travel to <hi>Dublin,</hi> but of late divers of His Majeſty's Subjects, having for Iuſt and True Debts, and other Good and Lawful Cauſes commenced Sutes in ſuch In<g ref="char:EOLhyphen"/>ferior Courts and Proſecuted their Actions and Sutes many times ready for Tryal, and the ſame Cauſes being for the moſt part of ſmall value, have beén Removed into ſome of His Ma<g ref="char:EOLhyphen"/>jeſty's Courts at <hi>Dublin,</hi> and being remanded by <hi>Procedendo,</hi> into the ſame Inferior Courts, where the Action or Sute was firſt commenced, the ſame having beén again often times Remo<g ref="char:EOLhyphen"/>ved into the ſame, or other of His Majeſty's Courts at <hi>Dublin,</hi> to the Intollerable delay of Iuſtice, and great Expences of Money, and Loſs, and Trouble to thoſe which Iuſtly and
+<pb n="4" facs="tcp:107353:3"/>Honeſtly, by ſuch Actions and Sutes, have ſought only to Recover, or get Satisfaction for Debts, Duties or Wrongs Owing, Due or Done unto them. For Remedy whereof.</p>
+            <p>Be it Enacted by the King's Moſt Excellent Majeſty, by, and with the Advice and Conſent of the Lords Spiritual and Temporal, and Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament Aſſembled, and by the Authority of the ſame, That no Writ, or Writs of <hi>Habeas Corpus, Certiorari,</hi> or any other Writ or Writs, Proceſs or Proceſſes whatſoever, other then Writs of Error, or Attaint, to be Sued forth after the Twentieth Day of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> next, which will be in this preſent Year of our Lord, One thouſand Six hundred Ninety ſeaven, by any perſon or perſons whatſoever, out of, or from any of His Majeſty's Courts at <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> or out of any other Court or Courts, ha<g ref="char:EOLhyphen"/>ving, or pretending to have power to Award ſuch Writs or Proceſſes to ſtay or remove any Action, Bill, Plaint, Sute or Cauſe, Brought, Com<g ref="char:EOLhyphen"/>menced, or Depending, or hereafter to be Brought, Commenced, or Depending in any Court or Courts of Record, within any City, Liberty, Town Corporate, or elſewhere, which have, or ſhall have Iurisdiction, Power or Au<g ref="char:EOLhyphen"/>thority, to hold Plea in that Action, Bill, Plaint, Sute or cauſe, the ſame cauſe of Action, Bill, Plaint, or Sute ariſing, or growing within the ſaid City, Liberty, Town Corporate or Iuriſ<g ref="char:EOLhyphen"/>diction, ſhall after the ſaid Twentieth day of <hi>November</hi> next, be Received or Allowed, by the Steward, Iudge or Iudges, or Officer or Of<g ref="char:EOLhyphen"/>ficers of the Court or Courts, wherein or to whom any ſuch Writ or Writs ſhall be Di<g ref="char:EOLhyphen"/>rected and Delivered, but that he and they ſhall
+<pb n="5" facs="tcp:107353:4"/>and may proceéd in the ſaid Cauſe or Cauſes, as though no ſuch Writ or Writs were Sued forth, or Delivered to him or them, Except that the ſaid Writ or Writs be Delivered to the Ste<g ref="char:EOLhyphen"/>ward or Stewards, Iudge or Iudges, Officer or Officers of the ſaid Court, before Iſſue or Demurrer, joyned in the ſaid Cauſe or Cauſes ſo Depending, or to be Depending in ſuch Court of Record, in any City Liberty, Town Corporate, or elſewhere, having Power to hold ſuch Plea, ſo as the ſaid Iſſue and Demur<g ref="char:EOLhyphen"/>rer be not joyned in Six Weéks next after the Arreſt or Appearance of the Defendant or De<g ref="char:EOLhyphen"/>fendants, to ſuch Action or Sute commenced.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any ſuch Action, Bill, Plaint, Sute, or Cauſe, which is, or ſhall hereafter, be brought, Commenced, or Depending in any ſuch Court of Record in any City, Liberty, Town Corporate, or elſewhere, ſhall after the ſaid Twentieth Day of <hi>November</hi> next, be remo<g ref="char:EOLhyphen"/>ved or ſtay'd by any ſuch Writ or Writs, Pro<g ref="char:EOLhyphen"/>ceſs or Proceſſes, to be Sued forth out of any of His Majeſty's Courts at <hi>Dublin,</hi> or any o<g ref="char:EOLhyphen"/>ther Court as aforeſaid: That if afterwards the fame Action, Bill, Plaint, Sute, or Cauſe, ſhall be remanded or ſent back again by any Writ or Writs of <hi>Procedendo,</hi> or other Writ what<g ref="char:EOLhyphen"/>ſoever; that then the ſaid Action, Bill, Plaint, Sute, or Cauſe, ſhall never afterwards be re<g ref="char:EOLhyphen"/>moved or ſtay'd before Iudgment, by any Writ or Writs whatſoever, to be Sued forth out of any of His Majeſty's ſaid Courts, at <hi>Dublin,</hi> or any other Court, as aforeſaid, any Law, Statute, Cuſtom, Vſage, or Reſtraint to the contrary thereof, in any wiſe notwithſtanding.</p>
+            <pb n="6" facs="tcp:107353:5"/>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any Action, Bill, Plaint, Sute, or Cauſe, not concerning Freé-hold, or Inheritance, or Title of Land, Leaſe, or Rent, which ſhall be Brought, Commenced, or Depending in any ſuch Court of Record, or any City, Liberty, Town Corporate, or elſewhere, if it ſhall appear, or be laid in the ſaid Decla<g ref="char:EOLhyphen"/>ration, that the Debt, Damages, Things De<g ref="char:EOLhyphen"/>manded, doth or ſhall not Amount to, or ex<g ref="char:EOLhyphen"/>ceéd the Summ of Five Pounds, that then ſuch Action, Bill, Plaint, Sute, or Cauſe, ſhall not be ſtay'd, nor be removed into any of His Majeſty's Courts at <hi>Dublin,</hi> or other Court as aforeſaid, by any Writ or Writs whatſo<g ref="char:EOLhyphen"/>ever, to be Sued, or Proſecuted forth, or out of His Majeſty's ſaid Courts at <hi>Dublin,</hi> or other Courts, as aforeſaid, other then Writs of Er<g ref="char:EOLhyphen"/>ror, or Attaint, any Law, Statute, Vſage, Cuſtom, or Reſtraint to the contrary, in any wiſe notwithſtanding.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any Writ or Writs what<g ref="char:EOLhyphen"/>ſoever, ſhall be after the ſaid Twentieth Day of <hi>November</hi> next, Granted or Sued forth, out of any His Majeſty's Courts at <hi>Dublin,</hi> or other Court, contrary to the meaning of this preſent Act; that then it ſhall, and may be Lawful to, and for the Iudge or Iudges, and Officer or Officers, to whom ſuch Writ or Writs ſhall be Delivered, to Diſallow, and Refuſe the ſame, and to Proceéd as if no ſuch Writ or Writs, had beén Granted, or Sued out, or forth, as aforeſaid, any Law, Statute, Vſage, Cuſtom, or Reſtraint, to the contrary in any wiſe not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <pb n="7" facs="tcp:107353:5"/>
+            <p>And whereas ſome perſons have doubted, whether an Act made in the Tenth Year of the Reign of King <hi>Charles</hi> the Firſt, Inti<g ref="char:EOLhyphen"/>tuled, <hi>An Act for Expedition of Juſtice in Caſes of Demurrers,</hi> &amp;c. And one other Act made in the ſaid Tenth Year of the ſaid King <hi>Charles</hi> the Firſt, Intituled, <hi>An Act for the Reforma<g ref="char:EOLhyphen"/>tion of Jeofailes,</hi> &amp;c. Extend to Inferior Courts of Record.</p>
+            <p>And whereas an Act made in the Thirty Third Year of the Reign of King <hi>Henry</hi> the Eighth, Intituled, <hi>An Act touching Miſ-implea<g ref="char:EOLhyphen"/>ding and Jeofailes.</hi> And an other Act made in the ſaid Tenth Year of the ſaid King <hi>Charles</hi> the Firſt, Intituled, <hi>An Act for avoiding Unneceſſary Delays of Execution:</hi> And an other Act made in the Seaventeénth and Eighteénth Years of King <hi>Charles</hi> the Second, Intituled, <hi>An Act to prevent Arreſts of Judgment, and Superſeading Executions,</hi> are found by Experience to be Good and Beneficial Laws, but do not Extend to the ſaid Inferior Courts; To the end there<g ref="char:EOLhyphen"/>of, that all His Majeſty's Subjects may have the full Benefit and Advantage of ſo Good Laws.</p>
+            <p>Be it Enacted by the Authority aforeſaid, That all the ſeveral above-mentioned Acts, ſhall from the ſaid Twentieth Day of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> next, be, and be Conſtrued to be in Force, in all Inferior Courts of Record in this King<g ref="char:EOLhyphen"/>dom, and ſhall be as Effectual, and as du<g ref="char:EOLhyphen"/>ly obſerved in all the ſaid Inferior Courts, as if the ſaid Inferior Courts had beén particular<g ref="char:EOLhyphen"/>ly named and expreſſed in the ſeveral above-mentioned Acts.</p>
+            <pb n="8" facs="tcp:107353:6"/>
+            <p>And whereas in County Courts, Mannor Courts, and other Inferior Courts, where ſhall Actions of Debts and Damages, under Forty Shillings are Tryed, ſufficient Encou<g ref="char:EOLhyphen"/>ragement cannot be given to Attorneys, or other perſons Skilled in the Law of this Realm, to practice, ſo that the Pleadings and Proceéd<g ref="char:EOLhyphen"/>ings in the ſaid Courts, are not ſo Formal as by Law they ought to be, for the Eaſe of the Subject.</p>
+            <p>Be it Enacted by the Authority aforeſaid, That in all the ſaid Inferior Courts, which have Power to Try Actions under Forty Shil<g ref="char:EOLhyphen"/>lings, and no more, that the Proceédings and Pleadings may be in Engliſh, and ſhall not for that, or any other. Defect in Form, be Quaſhed or Vacuated if the ſame be Removed by Writ of Falſe Iudgment, or otherwiſe, into any of His Majeſty's Courts of Record, any Former Law, Cuſtom, Statute, or Vſage to the contra<g ref="char:EOLhyphen"/>ry notwithſtanding.</p>
+         </div>
+         <div type="act">
+            <head>An ACT for Redreſs of certain Abuſes in Making Pewter and Braſs. CHAP. XXXIX.</head>
+            <p>WHEREAS there is much Pewter and Braſs, Made, Wrought, and Vended within this Kingdom, which is not of ſuch Fine Mettal, and ſuch perfect Goodneſs as the ſame ought to be; and is Made, Wrought, and Vended oftentimes by ve<g ref="char:EOLhyphen"/>ry
+<pb n="9" facs="tcp:107353:6"/>Vnskillful perſons, who underſtand not the True Making and Working of ſuch Metals, or by other perſons, who uſe the ſaid Art De<g ref="char:EOLhyphen"/>ceitfully, all which Tends much to the preju<g ref="char:EOLhyphen"/>dice of His Majeſty's Subjects, who have oc<g ref="char:EOLhyphen"/>caſion to Buy, and make Vſe of Pewter and Braſs: For Remedy whereof.</p>
+            <p>Be it Enacted by the King's Moſt Excellent Majeſty, by, and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in this preſent Parliament Aſſem<g ref="char:EOLhyphen"/>bled, and by Authority of the ſame, That from and after the Firſt day of <hi>January</hi> next, which will be in the preſent Year of Our Lord, One thouſand Six hundred and Ninety ſeaven, no perſon or perſons, uſing the Craft or Trade of Pewters and Braſiers, or who Buy, Sell, Trade, or Deal in the ſame, within this Realm, ſhall Sell or Change, any Pewter or Braſs, New or Old, at any place or places, ſave only in open Faires and Markets, or in their own Publick Shops and Dwelling Houſes, upon pain that every perſon and perſons, Acting con<g ref="char:EOLhyphen"/>trary hereunto, ſhall for every ſuch Offence, Forfeit and Loſe the Summ of Forty Shil<g ref="char:EOLhyphen"/>lings, the one half to go, and be to the uſe of the Poor of the Pariſh, where ſuch Offence ſhall be Committed, the other half to the perſon or perſons, that ſhall Seize, Find, or Proſecute for the ſame.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That no perſon or perſons, from and after the ſaid Firſt day of <hi>January</hi> next, ſhall at any place or places, within this Realm, Caſt, Make or Work any new Pewter, or Braſs Veſſel, but ſuch as ſhall be of as good Fine Me<g ref="char:EOLhyphen"/>tal,
+<pb n="10" facs="tcp:107353:7"/>as is the Pewter and Braſs, Caſt and Wrought after the perfect Goodneſs required for the ſame, within the City of <hi>London,</hi> upon pain of Forfeiture of all and every ſuch Pewter and Braſs Veſſel and Veſſels ſo Caſt, Made, and Wrought contrary thereunto, the one half of ſuch Forfeiture to be to the uſe of the Poor of the Pariſh, where ſuch Offence ſhall be Com<g ref="char:EOLhyphen"/>mitted, the other half to the uſe of the Finder, Diſcoverer and Proſecutor for the ſame<g ref="char:punc">▪</g> which ſaid Offences ſhall be Examined, Heard and Determined in all Cities, and Corporate Towns, by, and before the Mayor, Bailiff, Soveraign, Portreéve, or other head Officer of ſuch City, or Town Corporate, and in all o<g ref="char:EOLhyphen"/>ther places, by and before two Iuſtices of the Peace of the reſpective Counties, where ſuch Goods ſhall be ſo Seized, as aforeſaid, who are hereby Authorized and Required, to Examine the ſaid Matters, on Oath of One or More Witneſſes, which Oath they are hereby Au<g ref="char:EOLhyphen"/>thorized to Adminiſter, and to Hear, Determine, and give Iudgment thereupon, for the Forfei<g ref="char:EOLhyphen"/>ture of ſuch Goods, to the Vſes aforeſaid, or otherwiſe for Diſcharging and Reſtoring the ſame, as they ſhall ſeé cauſe; which ſaid Iudg<g ref="char:EOLhyphen"/>ment ſo given, ſuch Mayor, Bailiff, Iuſtices of the Peace, or other Officer, are hereby Re<g ref="char:EOLhyphen"/>quired to Return, and Certifie to the Iuſtices of the Peace, at the next Quarter-Seſſions, to be held for ſuch City, Town Corporate, or Coun<g ref="char:EOLhyphen"/>ty reſpectively, to the Intent that the ſame may be there Entred of Record.</p>
+            <p>Provided always, That no Pewter and Braſs, ſhall be ſo Seized or Forfeited, ſave only ſuch as ſhall at the time of ſuch Seizure, be in the
+<pb n="11" facs="tcp:107353:7"/>poſſeſſion of ſome Pewterer or Braſier, or other perſon uſing the ſaid Trade or Miſtery, or Sel<g ref="char:EOLhyphen"/>ling ſuch Pewter or Braſs, or of ſome perſon or perſons in Truſt for him or them, and not ſuch as ſhall be in the poſſeſſion of any other perſon not uſing ſuch Trade or Miſtery, as the proper Goods of ſuch other perſon.</p>
+            <p>And be it further Enacted by the Authority aforeſaid. That no manner of perſon or perſons, of what Degreé or Condition ſoever, he or they be, from and after the ſaid Firſt day of <hi>January</hi> next, ſhall make any Hollow Wares, That is to ſay, Salts and Pots, or the like of Pewter, called Lay-Metal, which ſhall be of courſer or worſe Metal then according to the Aſſize of Lay-Metal Wrought within the City of <hi>London;</hi> and that the Makers of ſuch Wares, ſhall make the ſame Wares, with ſeveral and part<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cular Marks of their own, to the intent, that the Makers of ſuch Wares ſhall avow the ſame, and ſuch Wares may appear to be made by them, and that all and every ſuch Wares not ſo ſufficiently Made, Wrought, or Marked in Form aforeſaid, found in the poſſeſſion of the ſame Maker or Seller, ſhall be Seized as Forfeited; and if the ſame Ware be Sold before ſuch Seizure, then the ſaid Maker ſhall Forfeit the Value of the ſame Ware, ſo Vnlawfully Wrought and Sold, the One half of ſuch Forfeiture, to be the Vſe of the Poor of the Pariſh where ſuch Offence ſhall be Com<g ref="char:EOLhyphen"/>mitted, and the other half to the Vſe of the Finder or Finders, Searcher, and Proſecutor for the ſame; ſuch Offences to be Examined, Heard, and Determined as aforeſaid.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any perſon or perſons, after
+<pb n="12" facs="tcp:107353:8"/>the ſaid Firſt Day of <hi>January</hi> next, Vſing, Buy<g ref="char:EOLhyphen"/>ing, and Selling, of Pewter and Braſs, ſhall have, or make uſe of any Deceitful, or Falſe Beams, or Weights, ſuch perſon or perſons, ſhall for every ſuch Offence, Forfeit the Summ of Five Pounds, the one half to the Poor of the Pariſh where ſuch Offence ſhall be Com<g ref="char:EOLhyphen"/>mitted, the other half to the perſon or perſons, Finding, Diſcovering, &amp; Proſecuting for the ſame, ſuch Proſecution to be before ſuch reſpective per<g ref="char:EOLhyphen"/>ſons, and in like manner, as for the other Of<g ref="char:EOLhyphen"/>fences, againſt this Act before mentioned; And ſuch perſons are hereby reſpectively Authorized and Required, to Act therein, as in caſes of ſuch other Offences; and if the ſaid Offender or Offen<g ref="char:EOLhyphen"/>ders, ſhall not be ſufficient to pay the ſaid Summ or Summs, ſo by him or them Forfeited, that then it ſhall, and may be Lawful, to, and for ſuch per<g ref="char:EOLhyphen"/>ſon or perſons reſpectively, before whom ſuch Of<g ref="char:EOLhyphen"/>fences ſhall be Tryed, to put ſuch Offender in the Stocks, for the ſpace of Two Hours, and after to continue him in Cuſtody, until the next Market Day, for the place where ſuch Offence ſhall be committed, and then in the open Mar<g ref="char:EOLhyphen"/>ket place, during the chief time of ſuch Mar<g ref="char:EOLhyphen"/>ket, to put, and continue him with his Head in the Pillory, for the ſpace of our Hour.</p>
+            <p>And be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That it ſhall and may be Lawful, to, and for the Maſter and Wardens, of the ſaid Crafts of Pewterers and Braſiers, within every City and Burough, within this Realm, where ſuch Maſter and Wardens are; and where ſuch Maſter and Wardens are not, then to, and for the Head Officer, and Magiſtrates of the ſaid City and Burough, to appoint certain perſons,
+<pb n="13" facs="tcp:107353:8"/>moſt expert in knowing of the ſame, to make Search in Cities and Buroughs where they dwell, for, and after ſuch Offenders and him or them, to Ap<g ref="char:EOLhyphen"/>prehend, or Cauſe to be Apprehended; and alſo to Seize ſuch Goods as they ſhall juſtly ſuſpect to be made contrary to this Act, and Lyable to be Sei<g ref="char:EOLhyphen"/>zed by Vertue thereof, and forthwith to bring ſuch Offenders and Goods ſo Apprehended and Seized, before the reſpective perſons hereby Required to Hear, and Determine ſuch Offences, in Order to their further Procedure thereupon, according to the directions of this Act: And the Iuſtices of the Peace within every Shire, or County of this King<g ref="char:EOLhyphen"/>dom, are hereby Authorized and Required, at the General-Seſſions of the Peace, to be held for their reſpective Counties, at <hi>Michaelmas</hi> in every Year, to Aſſign and Appoint, Two certain perſons, having Experience in ſuch Goods, to make Search in the Premiſes, in every part of the ſaid Shire or Coun<g ref="char:EOLhyphen"/>ty, as well within Franchiſes, as without, except in Cities or Buroughs, where perſons are appoin<g ref="char:EOLhyphen"/>ted for that purpoſe, by the Head Officers, or Go<g ref="char:EOLhyphen"/>vernour of the ſame, and to Seize ſuch Offenders, and Goods, and bring the ſame before ſuch Iuſtices of the Peace, who is hereby Required, to Hear and Determine ſuch Offences, in Order to their fur<g ref="char:EOLhyphen"/>ther procedure thereon, as aforeſaid; and that in de<g ref="char:EOLhyphen"/>fault of the Maſter and Wardens, or other the per<g ref="char:EOLhyphen"/>ſons to be Appointed, according to this Act, of Searching in manner aforeſaid, it ſhall and may be lawful, to, and for any other perſon or perſons ha<g ref="char:EOLhyphen"/>ving Cunning, and Knowledge in the ſaid Occupa<g ref="char:EOLhyphen"/>tion, by over-ſight of the Mayor, Bailiff, and Head Officers of the ſaid Cities and Buroughs, to Search all the aforeſaid places, for any of the a<g ref="char:EOLhyphen"/>foreſaid Vnlawful Metals, and Vnlawful Weights, in order to the putting of this preſent Act in due Execution.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
